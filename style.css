@@ -1,0 +1,235 @@
+.navbar{
+    display: flex;
+    padding-top: 20px;
+}
+.headlist{
+    margin-left: 30%;
+    margin-left: 30%;
+}
+
+.headimg1{
+    width: 220px;
+    height: 90px;
+}
+.ulist{
+    display: flex;
+}
+.list{
+    margin-left: 20px;
+    font-size: large;
+    color: black;
+    font-weight:540;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list1{
+    margin-left: 30px;
+    font-size: large;
+    color:rgb(97, 26, 127);
+    text-decoration:underline;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list:hover{
+    color:rgb(97, 26, 127);
+    text-decoration:underline;
+    font-weight: 550;
+}
+.ker{
+    font-family:Cambria ;
+    color:rgb(97, 26, 127);
+    font-size: 65px;
+    font-weight: bolder;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.no1{
+    font-family:Cambria ;
+    color:rgb(97, 26, 127);
+    font-size: 23px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.para{
+    margin-left: 50px;
+    font-weight: bold;
+}
+.img1,.img2{
+    height: 80px;
+    margin-left: 50px;
+
+}
+.line{
+    color:rgb(97, 26, 127);
+    font-size: 70px;
+}
+.imag{
+    height: 60px;
+    width: 60px;
+    position: fixed;
+}
+.view{
+    background-color: rgb(97, 26, 127);
+    color: white;
+    height: 30px;
+    width: 120px;
+    padding-left:15px ;
+    padding-top: 5px;
+    border-radius: 20px;
+    margin-left: 60px;
+    font-family: calibri;
+    font-size: 17px;
+    font-weight: bold;
+}
+.dflex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.allimg1{
+    height: 550px;
+}
+.barimg1{
+    height: 50px;
+    width: 70%;
+}
+.barimg{
+    margin-left: 20%;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(97, 26, 127) ;
+    border-radius: 6px;
+    margin-left: 150px;
+}
+.div1s{
+    margin-left: 100px;
+}
+.ach1{
+    height: 250px;
+    width: 250px;
+    border-radius: 6px;
+}
+.ach2{
+    height: 250px;
+    width: 250px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+.dflex1{
+    display: flex;
+}
+.dflex3{
+    margin-left: 40px;
+}
+.dflex4{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.text1{
+    font-size: 20px;
+}
+.text2{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.text3{
+    font-size: 20px;
+}
+.view{
+    border: 2p solid rgb(97, 26, 127) ;
+    border-radius:15px ;
+    padding-left: 50px;
+}
+.dflex5{
+    background-color:rgb(97, 26, 127) ;
+}
+.text4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: white;
+    margin-left: 30px;
+}
+.text5{
+    font-family: calibri;
+    font-size: 25px;
+    color: white;
+    margin-left: 30px;
+}
+.text6{
+    font-size: 20px;
+    color: white;
+    margin-left: 34px;
+    font-family: calibri;
+}
+.col2,.col3,.col4{
+    background-color: rgb(206, 184, 210);
+    height: 450px;
+    width: 380px;
+    border-radius: 11px;
+    padding-top: 60px;
+    padding-left: 60px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+.col2t{
+    color:rgb(97, 26, 127) ;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.row1{
+    display: flex;
+}
+.spa{
+    color:rgb(97, 26, 127) ;
+    font-weight: bolder;
+}
+.col2:hover,.col3:hover,.col4:hover{
+    background-color:rgb(255, 255, 255) ;
+}
+.more{
+    background-color: rgb(97, 26, 127);
+    color: white;
+    height: 30px;
+    width: 120px;
+    padding-left:20px ;
+    padding-top: 5px;
+    border-radius: 20px;
+    margin-left: 60px;
+    font-family: calibri;
+    font-size: 17px;
+    font-weight: bold;
+}
+.row2{
+    display: flex;
+    margin-left:  70px;
+}
+.col3{
+    margin-left: 50px;
+}
+.pen{
+    width: 100%;
+    height: 400px;
+}
+.int1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color:rgb(97, 26, 127) ;
+    margin-left: 50px;
+}
+.int2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:rgb(97, 26, 127) ;
+    margin-left: 50px;
+}
+.foot1{
+    display: flex;
+    color:rgb(97, 26, 127) ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.foot4s{
+    color:rgb(97, 26, 127) ;
+    font-size: 16px;
+    font-weight: bold;
+}
